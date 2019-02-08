@@ -25,3 +25,10 @@ Amazon link for arduino--https://www.amazon.in/Uno-ATmega328P-Compatible-ATMEGA1
 The d type cable
 
 This lets u transfer the complied code from your pc to the micro controller
+
+#####################################################################################
+
+![download](https://user-images.githubusercontent.com/45619819/52484137-9ccca400-2bdb-11e9-8be9-a7735cb324e9.jpg)
+Ir remote
+
+Any Ir remote can be used for this purpose, but u have to make sure that u know the hex values of the buttons before hand
